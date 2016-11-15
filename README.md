@@ -1,6 +1,6 @@
 #Astral
 ###PHP Single Page Site
-#####[View a demo here](http://tonyspiro.com/dev/cosmicjs-examples/php/astral/)
+#####[View a demo here](http://astral.cosmicapp.co/)
 [Sign up for Cosmic JS](https://cosmicjs.com/) to start managing content for your websites and applications faster and easier.
 ####Get Started
 In ```config.php``` set your bucket slug:
